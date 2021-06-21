@@ -1,0 +1,4 @@
+/home/osboxes/Desktop/lp1/lp1_2021_1_lista_1/negativos5/build/CMakeFiles/rebuild_cache.dir
+/home/osboxes/Desktop/lp1/lp1_2021_1_lista_1/negativos5/build/CMakeFiles/edit_cache.dir
+/home/osboxes/Desktop/lp1/lp1_2021_1_lista_1/negativos5/build/CMakeFiles/verify.dir
+/home/osboxes/Desktop/lp1/lp1_2021_1_lista_1/negativos5/build/CMakeFiles/program.dir
